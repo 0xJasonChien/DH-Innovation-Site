@@ -13,7 +13,7 @@ The website aims to comprehensively present the program’s results in a digital
 
 ## Technical Stack & Deployment
 - **Frontend**: Developed a responsive layout using Bootstrap, ensuring compatibility across devices. Enhanced user interactivity with jQuery for DOM manipulation and UI element control.
-- **Server Deployment**: Hosted on a university server with Apache, I handled the full deployment pipeline including configuration, testing, and optimization.
+- **Server Deployment**: Hosted on a university server with Apache, I handled the full deployment including configuration, testing, and optimization.
 
 This project demonstrates my full-stack capabilities from design and development to deployment. In particular, I independently managed Apache server configuration, static file handling, and security validation, ensuring the website's high performance and stability.
 
