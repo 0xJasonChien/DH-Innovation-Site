@@ -1,6 +1,5 @@
 # Ministry of Education Digital Humanities Talent Cultivation Project Showcase Website
 
-## Summary
 This project is the official showcase website for the **"Digital Humanities Innovation Talent Cultivation Program" by the Department of Applied English at National Kaohsiung University of Science and Technology (NKUST)**. 
 <br>
 During my sophomore year, I was recommended by a professor to take charge of the website’s development and deployment. My responsibilities included frontend design, backend feature development, and server setup and maintenance to ensure stable performance and a smooth user experience.
