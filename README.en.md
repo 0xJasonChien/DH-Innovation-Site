@@ -18,6 +18,6 @@ The website aims to comprehensively present the program’s results in a digital
 This project demonstrates my full-stack capabilities from design and development to deployment. In particular, I independently managed Apache server configuration, static file handling, and security validation, ensuring the website's high performance and stability.
 
 
-## Website screenshot
+## Screenshot
 ![screencapture-aipro2-nkust-org-2024-12-11-06_46_01](https://github.com/user-attachments/assets/c811127e-5e59-40b1-b90b-c670edd729ac)
 
